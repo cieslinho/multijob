@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build files
+dist/
+
+# IDE and editor files
+.idea/
+.vscode/
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sass cache
+*.css.map
+*.js.map
