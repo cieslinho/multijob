@@ -17,3 +17,6 @@ npm-debug.log*
 # Sass cache
 *.css.map
 *.js.map
+
+# Images
+assets/images/
